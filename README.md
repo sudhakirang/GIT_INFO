@@ -1,5 +1,5 @@
 # GIT_INFO
-Frequently used GIT commands in my workflow with short descriptions and syntaxs
+Frequently used GIT commands in my workflow with short descriptions and syntaxes
 
 
 
