@@ -57,3 +57,5 @@ used for initial clone from the remote repository to a local repository. From th
     
     8. Git merge: Combine changes from one branch into another
     Takes the changes from one branch (source) and integrates them into the current branch (target). It preserves all history and adds a merge commit if needed.
+
+    9. Git Stash: Allows you to temporarily save changes in your working directory without commiting them. Useful when you need to switch branches/work on something else but do not want to loose/commit your unfinished changes.
