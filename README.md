@@ -4,7 +4,7 @@ Frequently used GIT commands in my workflow with short descriptions and syntaxes
 
 
     1. Git clone: One time setup
-used for initial clone from the remote repository to a local repository. From the local repository to work location folder use git checkout (which is already creted, if you want to create at this moment in the work location use git checkout -b).
+used for initial clone from the remote repository to a local repository. From the local repository to work location folder use git checkout (which is already created, if you want to create the branch and switch to that at this moment in the working location use git checkout -b).
     Used when: You're starting to work with a repository for the first time.
     What it does:
         • Downloads all files, commit history, and branches from the remote repository.
